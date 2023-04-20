@@ -1,0 +1,11 @@
+<resources>
+    <string name="app_name">TH2_tablayout</string>
+    <string-array name="category">
+        <item>A</item>
+        <item>B</item>
+        <item>C</item>
+        <item>D</item>
+        <item>E</item>
+        <item>F</item>
+    </string-array>
+</resources>
